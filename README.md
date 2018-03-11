@@ -14,3 +14,6 @@ Books:
 
 * Pattern Recognition and Machine Learning (Bishop)  
 * Machine Learning - A probabilistic perspective (Murphy)
+
+Blogs:  
+* http://fastml.com/bayesian-machine-learning/  
