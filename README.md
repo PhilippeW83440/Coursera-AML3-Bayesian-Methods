@@ -18,3 +18,6 @@ http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognit
 
 Blogs:  
 * http://fastml.com/bayesian-machine-learning/  
+
+PyMC:  
+* http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
