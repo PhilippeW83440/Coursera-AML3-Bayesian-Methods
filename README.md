@@ -20,4 +20,8 @@ Blogs:
 * http://fastml.com/bayesian-machine-learning/  
 
 PyMC:  
-* http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+* http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/  
+
+Variational Autoencoders:    
+* https://ermongroup.github.io/cs228-notes/  
+* https://arxiv.org/pdf/1606.05908.pdf  
