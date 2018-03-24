@@ -25,3 +25,7 @@ PyMC:
 Variational Autoencoders:    
 * https://ermongroup.github.io/cs228-notes/  
 * https://arxiv.org/pdf/1606.05908.pdf  
+* http://kvfrans.com/variational-autoencoders-explained/  
+* http://zhusuan.readthedocs.io/en/latest/tutorials/vae.html  
+* https://jaan.io/what-is-variational-autoencoder-vae-tutorial/  
+
