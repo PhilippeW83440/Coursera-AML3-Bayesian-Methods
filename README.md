@@ -34,4 +34,6 @@ Variational Autoencoders:
 * http://www.cs.toronto.edu/~duvenaud/courses/csc2541/  
 * DEEPMIND http://shakirm.com/papers/VITutorial.pdf  
 * KERAS implementation https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/  
+* KERAS https://blog.keras.io/building-autoencoders-in-keras.html  
+* http://blog.fastforwardlabs.com/2016/08/22/under-the-hood-of-the-variational-autoencoder-in.html  
 
