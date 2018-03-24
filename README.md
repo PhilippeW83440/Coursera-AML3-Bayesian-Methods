@@ -22,10 +22,15 @@ Blogs:
 PyMC:  
 * http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/  
 
+MCMC:  
+* http://homepages.inf.ed.ac.uk/imurray2/teaching/09mlss/slides.pdf  
+
 Variational Autoencoders:    
 * https://ermongroup.github.io/cs228-notes/  
 * https://arxiv.org/pdf/1606.05908.pdf  
 * http://kvfrans.com/variational-autoencoders-explained/  
 * http://zhusuan.readthedocs.io/en/latest/tutorials/vae.html  
-* https://jaan.io/what-is-variational-autoencoder-vae-tutorial/  
+* VERY GOOD: https://jaan.io/what-is-variational-autoencoder-vae-tutorial/  
+* http://www.cs.toronto.edu/~duvenaud/courses/csc2541/  
+* DEEPMIND http://shakirm.com/papers/VITutorial.pdf  
 
