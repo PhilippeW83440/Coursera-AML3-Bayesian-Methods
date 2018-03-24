@@ -33,4 +33,5 @@ Variational Autoencoders:
 * VERY GOOD: https://jaan.io/what-is-variational-autoencoder-vae-tutorial/  
 * http://www.cs.toronto.edu/~duvenaud/courses/csc2541/  
 * DEEPMIND http://shakirm.com/papers/VITutorial.pdf  
+* KERAS implementation https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/  
 
