@@ -41,3 +41,4 @@ Variational Autoencoders:
 
 Gaussian Processes and Bayesian Optimization:
 * VERY GOOD 1 page summary of W6: http://www.resibots.eu/limbo/guides/bo.html  
+* Application to active user modeling and Hierarchical Reinforcement Learning: https://arxiv.org/abs/1012.2599  
