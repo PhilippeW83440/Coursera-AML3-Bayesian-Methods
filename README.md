@@ -26,6 +26,8 @@ MCMC:
 * http://homepages.inf.ed.ac.uk/imurray2/teaching/09mlss/slides.pdf  
 
 Variational Autoencoders:    
+* THE PAPER: Auto-Encoding Variational Bayes https://arxiv.org/abs/1312.6114  
+  cf W5 assignment for an implementation of this paper  
 * https://ermongroup.github.io/cs228-notes/  
 * https://arxiv.org/pdf/1606.05908.pdf  
 * http://kvfrans.com/variational-autoencoders-explained/  
@@ -37,3 +39,6 @@ Variational Autoencoders:
 * KERAS https://blog.keras.io/building-autoencoders-in-keras.html  
 * http://blog.fastforwardlabs.com/2016/08/22/under-the-hood-of-the-variational-autoencoder-in.html  
 
+Gaussian Processes and Bayesian Optimization:
+* VERY GOOD 1 page summary of W6: http://www.resibots.eu/limbo/guides/bo.html  
+* Application to active user modeling and Hierarchical Reinforcement Learning: https://arxiv.org/abs/1012.2599  
